@@ -6,9 +6,9 @@
   "packageName": "teamstab",
   "developer": {
     "name": "Mobex",
-    "websiteUrl": "https://9ac8-64-184-36-239.ngrok.io",
-    "privacyUrl": "https://9ac8-64-184-36-239.ngrok.io/privacy.html",
-    "termsOfUseUrl": "https://9ac8-64-184-36-239.ngrok.io/tou.html"
+    "websiteUrl": "https://26fc-64-184-36-239.ngrok.io",
+    "privacyUrl": "https://26fc-64-184-36-239.ngrok.io/privacy.html",
+    "termsOfUseUrl": "https://26fc-64-184-36-239.ngrok.io/tou.html"
   },
   "name": {
     "short": "teamstab",
@@ -28,7 +28,7 @@
     {
       "entityId": "3b680de7-8fb0-4877-a9d3-e2bffdd9ecee",
       "name": "teamstab Tab",
-      "contentUrl": "https://9ac8-64-184-36-239.ngrok.io/teamstabTab/?name={loginHint}&tenant={tid}&theme={theme}",
+      "contentUrl": "https://26fc-64-184-36-239.ngrok.io/teamstabTab/?name={loginHint}&tenant={tid}&theme={theme}",
       "scopes": [
         "personal"
       ]
@@ -36,8 +36,8 @@
     {
       "entityId": "personalTab",
       "name": "Personal Tab ",
-      "contentUrl": "https://9ac8-64-184-36-239.ngrok.io/teamstabTab/personal.html",
-      "websiteUrl": "https://9ac8-64-184-36-239.ngrok.io",
+      "contentUrl": "https://26fc-64-184-36-239.ngrok.io/teamstabTab/personal.html",
+      "websiteUrl": "https://26fc-64-184-36-239.ngrok.io",
       "scopes": ["personal"]
     }    
   ],
@@ -49,7 +49,7 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "9ac8-64-184-36-239.ngrok.io"
+    "26fc-64-184-36-239.ngrok.io"
   ],
   "showLoadingIndicator": false,
   "isFullScreen": false
